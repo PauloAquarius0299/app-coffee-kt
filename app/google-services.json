@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320229280079",
+    "project_id": "bolosapp-kt",
+    "storage_bucket": "bolosapp-kt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320229280079:android:7ec39fa6c8b720a937dd3a",
+        "android_client_info": {
+          "package_name": "com.example.bolosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyHC7lJGUYIWpOrRrsrEofLTQA4yUYKpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
